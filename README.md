@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sharbel!</h1>
-<h3 align="center">I am a Junior Computer Engineering Student doing a minor in Data Analytics.</h3>  
+<h1 align="center">Hi 👋, I'm Sharbel!</h1> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharbelxo&label=Profile%20views&color=0e75b6&style=flat" alt="sharbelxo" /> </p>
