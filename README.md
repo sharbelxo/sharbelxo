@@ -18,7 +18,7 @@
 </div>
 
 ### :technologist: About Me :
-- 🌱 I’m currently learning: **Machine Learning, Backend Development, Cloud Technologies**
+- 🌱 I’m currently learning: **Machine Learning, Artificial Intelligence, and Full-Stack Web Development**
 
 - 📫 How to reach me: **sharbelabousabha@outlook.com**
 
