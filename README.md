@@ -18,7 +18,7 @@
 </div>
 
 ### :technologist: About Me :
-- 🌱 I’m currently doing: **Web Development using React and Mobile Development using React Native**
+- 🌱 I’m currently doing: **Web Development using React & Mobile Development using React Native**
 - 📫 How to reach me: **sharbelabousabha@outlook.com**  
 
 ### 💻 Tech Stack:
