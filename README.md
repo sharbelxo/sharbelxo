@@ -18,9 +18,8 @@
 </div>
 
 ### :technologist: About Me :
-- 🌱 I’m currently doing: **Web Development using React & Mobile Development using React Native**
+- 🌱 I’m currently learning: **Agentic AI, ML Engineering, and Advanced SQL**
 - 📫 How to reach me: **sharbelabousabha@outlook.com**  
-- :alien: Check my website &rarr; [sharbel.tech](sharbel.tech)
 
 ### 💻 Tech Stack:
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
